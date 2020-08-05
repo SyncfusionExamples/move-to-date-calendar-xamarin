@@ -2,6 +2,10 @@
 
 Visible dates can be moved to specific date using [MoveToDate](https://help.syncfusion.com/cr/xamarin/Syncfusion.SfCalendar.XForms~Syncfusion.SfCalendar.XForms.SfCalendar~MoveToDate.html) property available in [SfCalendar](https://help.syncfusion.com/cr/xamarin/Syncfusion.SfCalendar.XForms~Syncfusion.SfCalendar.XForms_namespace.html?_ga=2.252324169.1541144887.1595824829-262160713.1529557470). It is applicable for all the [ViewMode](https://help.syncfusion.com/cr/xamarin/Syncfusion.SfCalendar.XForms~Syncfusion.SfCalendar.XForms.SfCalendar~ViewMode.html).
 
+You can also refer the following article.
+
+https://www.syncfusion.com/kb/11832/how-to-navigate-to-the-specific-month-in-xamarin-forms-calendar-sfcalendar
+
 **STEP 1:**  Create a ViewModel class and add a  **MoveToDate**  property with specific date.
 
 ``` c#
